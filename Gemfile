@@ -12,6 +12,9 @@ gem "jekyll", "~> 4.3"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem "jekyll-avatar"
+
+
 # If you are part of the ["Customers" team](https://github.com/orgs/hydecorp/teams/pro-customers), 
 # you can fetch the theme from a private repository. 
 # See [Deploy in the Hydejack Docs](https://hydejack.com/docs/deploy) for details.

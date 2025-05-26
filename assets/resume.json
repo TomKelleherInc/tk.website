@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Tom Kelleher",
+    "label": "Technologist and Consultant",
+    "picture": "https://example.com/photo.jpg",
+    "email": "kelleher@tkelleher.com",
+    "phone": "+1 973-650-0258",
+    "website": "https://thomasedison.com",
+    "summary": "A Director of Technology, with decades experience driving solution design and delivery. Led two massive upgrades of healthcare web/mobile apps, available to 5M users on 3 continents. A comfortable and personable leader and manager, setting strategic roadmap, synthesizing product and business strategies into stable, impactful systems.",
+    "location": {
+      "address": "409 Great Meadows Road",
+      "postalCode": "07825",
+      "city": "Blairstown",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "TomKelleher",
+        "url": "https://www.linkedin.com/in/TomKelleher"
+      },
+      {
+        "network": "Twitter",
+        "username": "TomKelleherInc",
+        "url": "https://twitter.com/TomKelleherInc"
+      }
+    ],
+    "url": "https://tkelleher.com"
+  },
+  "work": [
+    {
+      "company": "Edison Electric Light Company",
+      "position": "CEO, Lead Consultant",
+      "website": "https://edison.com",
+      "startDate": "2000-07",
+      "endDate": "",
+      "summary": "Client-facing technical consultancy, creating applications for healthcare, publishing, marketing, law enforcement and more.",
+      "highlights": [
+        "Won and served clientele across healthcare, publishing, marketing, law-enforcement and more -- augmenting/reimagining existing systems; creating zero-to-one new systems.",
+        "Created all budgets, project timelines and plans, and drove communication, requirements definition, pain point identification, and proactive expectation management.  ",
+        "Created static and dynamic demos and POCs, presentations, documentation and video summaries to confirm full understanding of business context and aims, and start-to-finish adherence to those aims."
+      ],
+      "name": "Tom Kelleher Consulting, Inc.",
+      "location": "Blairstown, NJ",
+      "url": "tkelleher.com",
+      "description": "Lead Consultant / Architect / Developer"
+    },
+    {
+      "company": "General Electric",
+      "position": "Senior Engineer",
+      "website": "https://ge.com",
+      "startDate": "2024-11",
+      "endDate": "2024-12",
+      "summary": "Educational publishing firm, creating encoded books for young readers; rapid-growth startup, achieving $20M+ in three years.",
+      "highlights": [
+        "Spearheaded strategic build/buy vendor assessment for secure file-transfer functionality. Authored use cases, normalized comparison data, validated with stakeholders to simplify final selection.",
+        "Planned/Architected/Coded integration and data loading interface for partner systems (Monday, ShipStation, NetSuite) into Tableau; foundation of first-ever strategic product management dashboard.",
+        "Created streamlined visualization of complex manual product flow, articulating inputs/outputs to each stage; jump-started collaboration, ideation, research, planning for new Automation team."
+      ],
+      "name": "Just Right Reader",
+      "location": "Dallas, TX",
+      "url": "https://justrightreader.com",
+      "description": "First developer hired to new team hired to automate and streamline customized book publishing process."
+    },
+    {
+      "name": "ArenaCX, Inc.",
+      "position": "\"Hands Dirty\" VP of Technology",
+      "startDate": "2021-02",
+      "endDate": "2024-10",
+      "location": "Raleigh, NC",
+      "url": "https://arenacx.com",
+      "summary": "Fast-paced startup, creating online marketplace for outsourcing vendors, consultants and SaaS firms.",
+      "description": "Hands-in-the-code developer and department leader, delivering on our expansive Outsourcing Marketplace vision.",
+      "highlights": [
+        "Drove 5-month zero-to-one system design and delivery of our flagship product (RFPerfect), from ideation and design to market launch, coding critical/complex components. Reduces RFPs lifecycle from months to days.",
+        "Managed technology and product roadmaps, stack and tech debt, version control, systems ecosystem, and tech vendor relationships -- problem solving and aligning all with strategic initiatives, customer needs, timelines and business goals.",
+        "Managed three agile dev teams simultaneously, coding key features, keeping all in sync, to deliver our flagship SaaS product. Reviewed/approved all invoices, negotiated costs and timing, created and managed RFPs.",
+        "Managed all IT cloud infrastructure, tooling, technology stack, vendor partnerships, vendor integrations, and knowledge sharing systems. Fit each to firm's vision, budget, strategic initiatives and business goals.",
+        "Maintained team and stakeholder confidence via weekly reports, technical demos & presentations, video updates, showcasing progress and solution deliveries; conveying technical concepts with clarity and resonance to varied audiences."
+      ]
+    },
+    {
+      "name": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "location": "",
+      "url": "",
+      "summary": "",
+      "description": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Menlo Park Laboratory",
+      "position": "Lead Researcher",
+      "website": "https://menloparklab.com",
+      "startDate": "1876-01-01",
+      "endDate": "1931-10-18",
+      "summary": "Conducted research and experiments leading to numerous patents and innovations.",
+      "highlights": [
+        "Developed the phonograph, a device for recording and reproducing sound.",
+        "Invented the motion picture camera, contributing to the birth of the film industry."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Self-Taught",
+      "area": "Various fields of science and technology",
+      "studyType": "Self-Education",
+      "startDate": "1859-01-01",
+      "endDate": "1931-10-18",
+      "gpa": "",
+      "courses": [
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Chemistry"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Congressional Gold Medal",
+      "date": "1928-01-01",
+      "awarder": "United States Congress",
+      "summary": "Awarded for distinguished achievements and contributions to society."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Electric Light and Power",
+      "publisher": "Scientific American",
+      "releaseDate": "1880-01-01",
+      "website": "https://scientificamerican.com",
+      "summary": "A paper detailing the development and impact of electric light and power systems."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Inventing",
+      "level": "Master",
+      "keywords": [
+        "Electricity",
+        "Sound Recording",
+        "Motion Pictures"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "Expert",
+      "keywords": [
+        "Business Development",
+        "Product Innovation",
+        "Industrial Research"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research and Development",
+      "keywords": [
+        "Innovations",
+        "Experimentation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Henry Ford",
+      "reference": "Thomas Edison was a brilliant inventor and a visionary businessman. His work has had a profound impact on the modern world."
+    }
+  ]
+}

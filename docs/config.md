@@ -222,8 +222,8 @@ At a bare minimum, you should add an `author` key with a `name` and `email` sub-
 ~~~yml
 # file: `_config.yml`
 author:
-  name:  Florian Klampfer
-  email: mail@hydejack.com
+  name:  Tom Kelleher
+  email: @tkelleher.com
 ~~~
 
 If you would like the author to be displayed in the about section below a post or project\*, add an `about` key and provide markdown content. I recommend using the YAML pipe `|` syntax, so you can include multiple paragraphs:
@@ -485,7 +485,7 @@ You can either override these files, or override the path in the config file via
 ```yml
 # file: "_config.yml"
 favicon: /favicon.ico
-apple_touch_icon: /assets/img/logo.webp
+apple_touch_icon: /assets/img/logo-tk.webp
 ```
 
 ### Changing the App Icons
