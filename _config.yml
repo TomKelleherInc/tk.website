@@ -10,12 +10,20 @@ author:
   about: |
     Hi, I'm Tom Kelleher, a software engineer and consultant of 25+ years experience.
 
+  picture:  /assets/img/logo-tk.webp
+  social:
+    twitter:  tomkelleherinc
+    github:  tomkelleherinc
+    linkedin: tomkelleher
+  
 
 accent_image:          /assets/img/sidebar-sea.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
 
 google_fonts:          false
+
+google_analytics:      G-1VWT4RDJQE
 
 hydejack:
   post_addons:         [about, newsletter, related, random, comments]
@@ -88,14 +96,14 @@ plugins:
   
 
 menu:
-  - title: Blog
-    url:   /blog/
-  - title: Projects
-    url:   /projects/
-  - title: Resume
-    url:   /resume/
   - title: About
     url:   /about/
+  - title: Projects
+    url:   /projects/
+  - title: Blog
+    url:   /blog/
+  - title: Resume
+    url:   /resume/
 
 
 collections:
