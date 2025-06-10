@@ -181,3 +181,10 @@ The table below shows what's included in each version:
 [rouge]: http://rouge.jneen.net
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
+
+
+Now you can run Jekyll on your local machine:
+
+~~~bash
+$ bundle exec jekyll serve
+~~~

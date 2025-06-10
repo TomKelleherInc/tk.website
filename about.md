@@ -117,7 +117,8 @@ Hydejack uses KaTeX to efficiently render math.
 {:.figcaption}
 
 
-## Features
+## Tom Kelleher 
+
 
 {% include features.md %}
 

@@ -8,19 +8,18 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Tom Kelleher Consulting, Inc. is a small software development firm based in northwest New Jersey. 
+    We lean in to understand your business circumstances, aims and opportunities&mdash;and help you
+    plan your next steps.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/tk-selfie.jpg
+
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+    # srcset:
+    #   1x:            assets/img/tk-selfie.jpg
+      # 2x:            https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -86,7 +85,7 @@ author1:
 #   name:              <firtname> <lastname>
 #   email:             <mail@domain.tld>
 #   about:             |
-#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     Lorem! ipsum dolor sit amet, consectetur adipiscing elit,
 #     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 #     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
